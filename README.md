@@ -1,6 +1,6 @@
 # declaration
 
-Anti-establishment stuff.
+Anti-establishment documentation.
 
 ![cover image](https://raw.githubusercontent.com/antibrand/declaration/master/cover.jpg)
 
