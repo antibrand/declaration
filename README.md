@@ -6,4 +6,4 @@ Anti-establishment documentation.
 
 This repository is a declaration of principles, and a declaration of intent.
 
-Please read the 'Declaration of Principles and Intent' file at waiver.md in this directory.
+Please read the 'Declaration of Principles and Intent' file at declaration.md in this directory.
